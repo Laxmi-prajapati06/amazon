@@ -22,7 +22,7 @@
 .logo{
     height: 50px;
     width: 100%;
-    background-image: url(Amazon-Emblem.jpg);
+    background-image: url(images/Amazon-Emblem.jpg);
     background-size: cover;
 }
 .border{
@@ -87,7 +87,7 @@
 .in{
     width: 30px;
     height:16px;
-    background-image: url(images.png);
+    background-image: url(images/images.png);
     background-size: cover;
     
 }
@@ -152,7 +152,7 @@ span{
 .panel-image{
     width: 600px;
     height: 36px;
-    background-image: url(image1.jpg);
+    background-image: url(images/image1.jpg);
     background-size: cover;
 }
 .pselect{
@@ -167,7 +167,7 @@ span{
 /* hero-section */
 .hero-section{
     height: 325px;
-    background-image: url(herosection.jpg);
+    background-image: url(images/herosection.jpg);
     background-size: cover;
 }
 .shop-section{
@@ -247,7 +247,7 @@ ul{
 .footer-logo{
     height: 50px;
     width: 100px;
-    background-image: url(Amazon-Emblem.jpg);
+    background-image: url(images/Amazon-Emblem.jpg);
     background-size: cover;
 }
 .footer-panel4{
